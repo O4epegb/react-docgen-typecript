@@ -1,0 +1,18 @@
+{
+  "name": "react-docgen-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.24",
+    "react": "^15.5.4",
+    "react-docgen-typescript": "0.0.10",
+    "tslib": "^1.7.0"
+  }
+}
